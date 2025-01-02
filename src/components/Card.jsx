@@ -2,7 +2,7 @@
  import defaultImage from './assets/images/d.jpg';
 
  
- function Card({username="DefaultName",img=defaultImage}) {
+ function Card({username="DefaultName",img = defaultImage}) {
    return (
     <div>
       <figure className="md:flex bg-slate-100 rounded-xl p-8 md:p-0 dark:bg-slate-800 hover:scale-110 transition-all duration-550 cursor-pointer">
