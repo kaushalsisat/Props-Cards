@@ -1,5 +1,5 @@
  import React from 'react'
- import defaultImage from './assets/images/d.jpg';
+ import defaultImage from '../assets/images/d.jpg';
 
  
  function Card({username="DefaultName",img = defaultImage}) {
