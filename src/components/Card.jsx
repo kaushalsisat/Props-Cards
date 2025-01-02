@@ -1,5 +1,6 @@
  import React from 'react'
  
+ 
  function Card({username="DefaultName",img="src/assets/images/d.jpg"}) {
    return (
     <div>
